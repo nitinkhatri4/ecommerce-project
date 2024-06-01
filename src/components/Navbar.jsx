@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="bg-emerald-900 h-16 flex font-serif flex-row justify-around items-center flex-wrap relative">
         <div className="text-[#090c9b] font-bold text-xl bg-zinc-300 rounded-xl p-1 border-2 border-white  hover:cursor-pointer">
           <h2>
-            <Link to="/home">Git E-commerce</Link>
+            <Link to="/home">ShopSphere</Link>
           </h2>
         </div>
         <div className=" hover:cursor-pointer">
